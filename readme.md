@@ -8,6 +8,8 @@ This project contains the following modules:
 
 To run the program do the following steps
 
+
+
 1) clone the repository and navigate into it
 In your terminal
 ```Powershell
@@ -15,14 +17,17 @@ git clone https://github.com/joshjosey/ttu_bayesian.git
 
 cd ttu_bbn
 ```
-
 or simply download the files
+
+
 
 2) Create a python virtual environment
 In your terminal
 ```Powershell
 python -m venv .venv
 ```
+
+
 
 3) Activate the virutal environment
 In your terminal
@@ -35,6 +40,8 @@ deactivate
 ```
 By using this virutal environment we can ensure that the dependencies can be correctly loaded
 
+
+
 4) Install dependencies
 In your terminal
 ```Powershell
@@ -43,8 +50,9 @@ pip install pandas
 pip install matplotlib
 pip install networkx
 ```
-
 pip will automatically install the dependencies of those packages
+
+
 
 5) run the main file
 In your terminal (do not copy and paste directly, you need to put your specific file path)
