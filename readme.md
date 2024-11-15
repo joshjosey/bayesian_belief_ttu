@@ -14,8 +14,8 @@ In your terminal
 git clone https://github.com/joshjosey/ttu_bayesian.git
 
 cd ttu_bbn
+```
 
-```text
 or simply download the files
 
 2) Create a python virtual environment
